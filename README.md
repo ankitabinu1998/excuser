@@ -1,3 +1,9 @@
+# Lessons
+
+Api used: https://excuser-three.vercel.app/
+
+Axios: https://github.com/axios/axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
